@@ -6,7 +6,7 @@
   <version>1.0.0</version>
   <properties>
     <!-- La versión vive en una propiedad: hay que resolverla, no leerla literal. -->
-    <jackson.version>2.9.10</jackson.version>
+    <jackson.version>2.18.9</jackson.version>
     <log4j.version>2.14.1</log4j.version>
   </properties>
   <dependencies>
